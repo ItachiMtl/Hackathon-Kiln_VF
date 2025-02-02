@@ -66,6 +66,7 @@ export function Chatbot() {
       setLoading(false)
     }
   }
+  
 
   return (
     <div className="bg-gray-900 rounded-lg p-4 h-[600px] flex flex-col border border-[#FF6521]/20">
